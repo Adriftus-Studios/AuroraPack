@@ -1,0 +1,11 @@
+{
+	"__comment": "/minecraft:give @p minecraft:stick{CustomModelData:1}",
+	"parent": "block/snow_height2",
+	"textures": {
+		"layer0": "item/snow"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1}, "model": "item/gui/redplus" },
+		{ "predicate": { "custom_model_data": 2}, "model": "item/gui/yellowplus" }
+	]
+}
