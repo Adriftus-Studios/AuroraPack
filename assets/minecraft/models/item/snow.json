@@ -5,7 +5,8 @@
 		"layer0": "item/snow"
 	},
 	"overrides": [
-		{ "predicate": { "custom_model_data": 1}, "model": "item/gui/redplus" },
-		{ "predicate": { "custom_model_data": 2}, "model": "item/gui/yellowplus" }
+		{ "predicate": { "custom_model_data": 1}, "model": "item/icons/redplus" },
+		{ "predicate": { "custom_model_data": 2}, "model": "item/icons/yellowplus" },
+		{ "predicate": { "custom_model_data": 3}, "model": "item/icons/scales" }
 	]
 }
