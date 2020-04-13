@@ -54,7 +54,9 @@
 		{ "predicate": { "custom_model_data": 35}, "model": "guis/guild_info_bottom" },
 		{ "predicate": { "custom_model_data": 36}, "model": "guis/guild_info_top" },
 		{ "predicate": { "custom_model_data": 37}, "model": "guis/guild_settings_bottom" },
-		{ "predicate": { "custom_model_data": 38}, "model": "guis/guild_settings_top" }
+		{ "predicate": { "custom_model_data": 38}, "model": "guis/guild_settings_top" },
+		{ "predicate": { "custom_model_data": 39}, "model": "guis/crafting_table_bottom" },
+		{ "predicate": { "custom_model_data": 40}, "model": "guis/crafting_table_top" }
 	]
 }
 
