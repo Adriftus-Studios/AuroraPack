@@ -11,7 +11,8 @@
 		{ "predicate": { "custom_model_data": 3}, "model": "item/custom/tails/tail1" },
 		{ "predicate": { "custom_model_data": 4}, "model": "item/custom/bunny_ears" },
 		{ "predicate": { "custom_model_data": 5}, "model": "item/custom/souls/lucid_soul" },
-		{ "predicate": { "custom_model_data": 6}, "model": "item/custom/wings/pink_lucid_wings2" }
+		{ "predicate": { "custom_model_data": 6}, "model": "item/custom/wings/pink_lucid_wings2" },
+		{ "predicate": { "custom_model_data": 7}, "model": "item/custom/emblems/2" }
 	]
 }
 
