@@ -11,7 +11,8 @@
 		{ "predicate": { "custom_model_data": 4}, "model": "item/snowball_game/4" },
 		{ "predicate": { "custom_model_data": 5}, "model": "item/custom/machines/grapple" },
 		{ "predicate": { "custom_model_data": 6}, "model": "item/custom/cannon" },
-		{ "predicate": { "custom_model_data": 7}, "model": "item/custom/cannon_base" }
+		{ "predicate": { "custom_model_data": 7}, "model": "item/custom/cannon_base" },
+		{ "predicate": { "custom_model_data": 8}, "model": "item/custom/guild_safe" }
 	]
 }
 
