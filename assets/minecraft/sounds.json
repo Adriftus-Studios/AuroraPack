@@ -1121,5 +1121,47 @@
       "custom/anvil_hit"
     ],
     "category": "player"
+  },
+  "magic.parry": {
+    "sounds": [
+      "custom/parry"
+    ],
+    "category": "player"
+  },
+  "magic.small_swoosh": {
+    "sounds": [
+      {
+        "weight": 3,
+        "pitch": 1,
+        "volume": 1,
+        "stream": false,
+        "name": "custom/small_swoosh"
+      },
+      {
+        "pitch": 0.7,
+        "volume": 0.9,
+        "stream": false,
+        "name": "custom/small_swoosh"
+      },
+      {
+        "pitch": 0.8,
+        "volume": 1,
+        "stream": false,
+        "name": "custom/small_swoosh"
+      },
+      {
+        "pitch": 1.2,
+        "volume": 0.8,
+        "stream": false,
+        "name": "custom/small_swoosh"
+      },
+      {
+        "pitch": 1.3,
+        "volume": 1,
+        "stream": false,
+        "name": "custom/small_swoosh"
+      }
+    ],
+    "category": "player"
   }
 }
