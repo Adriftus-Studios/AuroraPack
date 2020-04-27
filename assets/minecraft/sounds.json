@@ -1128,6 +1128,12 @@
     ],
     "category": "player"
   },
+  "magic.riposte": {
+    "sounds": [
+      "custom/riposte"
+    ],
+    "category": "player"
+  },
   "magic.small_swoosh": {
     "sounds": [
       {
